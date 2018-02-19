@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "webapp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinmeijs/webapp_template.git"
+  },
+  "author": "robin meijs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinmeijs/webapp_template/issues"
+  },
+  "homepage": "https://github.com/robinmeijs/webapp_template#readme"
+}
